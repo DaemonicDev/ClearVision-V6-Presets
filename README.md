@@ -4,6 +4,7 @@ These are the premade themes imported from V5 now in V6.
 ## Installation
 To install via BetterDiscord, open the themes folder via the settings menu, drop the file in, and then activate the theme by clicking on the radio button.
 
+Any further questions, please go to: https://discord.gg/HmVKer8
 ### Screenshots
 ClearVision Amber
 ![Alt text](/Screenshots/Amber.jpg?raw=true, "Amber")
